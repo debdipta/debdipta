@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI Algorithms
 - 💞️ I’m looking to collaborate on New Algorithms
 - 📫 How to reach me : Just email debdipta1078@gmail.com
+- Patent? https://patents.justia.com/inventor/debdipta-ghosh
 
 <!---
 debdipta/debdipta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
